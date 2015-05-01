@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class DateTimePickerAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/smalot-bootstrap-datetimepicker';
+    public $sourcePath = '@vendor/zyx/smalot-bootstrap-datetimepicker';
 
     public $depends = [
         'yii\bootstrap\BootstrapPluginAsset'
